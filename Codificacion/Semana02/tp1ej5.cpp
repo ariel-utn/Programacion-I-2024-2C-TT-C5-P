@@ -33,14 +33,14 @@ int main (){
     total = marcaA + marcaB + marcaC;
 
     /// ALTERNATIVA 1
-//    porcMarcaA = (float)(marcaA * 100) / total;
-//    porcMarcaB = (float)(marcaB * 100) / total;
-//    porcMarcaC = (float)(marcaC * 100) / total;
+//    porcMarcaA = ((float) marcaA * 100) / total;
+//    porcMarcaB = ((float) marcaB * 100) / total;
+//    porcMarcaC = ((float) marcaC * 100) / total;
 
     /// ALTERNATIVA 2
-    porcMarcaA = ((float)marcaA / total) * 100;
-    porcMarcaB = ((float)marcaB / total) * 100;
-    porcMarcaC = ((float)marcaC / total) * 100;
+    porcMarcaA = ((float) marcaA / total) * 100;
+    porcMarcaB = ((float) marcaB / total) * 100;
+    porcMarcaC = ((float) marcaC / total) * 100;
 
     /// SALIDA
     cout << "Porc. marca A: " << fixed << setprecision(3) << porcMarcaA << "%" << endl;
