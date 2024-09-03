@@ -100,6 +100,7 @@ int main(){
             tempMin = temperatura;
         }
 
+	/// PTO C
         if(visibilidad < 2){
             contDiasConNeblina++;
         }
