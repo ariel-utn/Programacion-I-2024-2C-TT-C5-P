@@ -13,8 +13,6 @@ Hay un registro por cada día. La información se encuentra ordenada por día. Se
 pide calcular e informar:
 
 PTO A- El número del día que se haya registrado la temperatura máxima.
-
-
 PTO B- La amplitud térmica de todo el período.
 PTO C- La cantidad de días con neblina.
 PTO D- Mostrar "Quincena lluviosa" si hubo más días de lluvia que días sin lluvia.
