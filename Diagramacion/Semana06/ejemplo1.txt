@@ -1,0 +1,12 @@
+LA UTN FRGP cuenta con varios cursos. 
+
+Por cada curso registra la siguiente informacion:
+- legajo alumno
+- nota obtenida
+Se ingresan registros hasta que se ingresa un legajo igual a cero.
+
+Se solicita un programa que calcule y muestre el promedio de notas.
+
+
+
+
