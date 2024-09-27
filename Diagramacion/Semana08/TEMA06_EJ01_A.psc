@@ -1,0 +1,19 @@
+Algoritmo TEMA06_EJ01_A
+	MIN = 999999
+	// GRUPO: SUCURSAL
+	Leer NS,DIA,IMP,VEND,TD,MP
+	Mientras NS<>0 Hacer
+		CUENTA_VTAS = 0
+		ANT = NS
+		Mientras NS==ANT Hacer
+			// PROCESO LOS REGISTROS DE VTAS
+			CUENTA_VTAS = CUENTA_VTAS + 1
+			Leer NS,DIA,IMP,VEND,TD,MP
+		FinMientras
+		Si CUENTA_VTAS < MIN Entonces
+			MIN = CUENTA_VTAS
+			MINSUC = ANT
+		FinSi
+	FinMientras
+	Escribir "LA SUCURSAL < CANT VTAS ES: ", MINSUC
+FinAlgoritmo
