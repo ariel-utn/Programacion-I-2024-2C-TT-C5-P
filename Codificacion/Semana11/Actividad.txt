@@ -1,0 +1,14 @@
+Una empresa metalúrgica dispone de un conjunto de registros que representan las
+producciones de cada una de sus 5 maquinas
+
+Por cada día y maquina se carga la siguiente información:
+
+  - Numero de Maquina (1 - 5)
+  - Día (1 a 31)
+  - Cantidad de piezas producidas
+
+El fin de la carga de datos se indica con numero de maquina igual a cero
+
+Informar:
+A- Por cada día, la cantidad de piezas producidas.
+B- Los días donde se realizaron únicamente producciones de la maquina 3.
