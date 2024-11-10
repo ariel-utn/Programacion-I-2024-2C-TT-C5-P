@@ -1,0 +1,14 @@
+
+Buenas tardes a todos.
+
+Les comparto la resolución del modelo de parcial 6 realizada el viernes 8/11.
+
+Se realizó con una herramienta en línea que permite crear diagramas, gráficos, mapas mentales, diagramas de flujo, diagramas de red, entre otros, ENLACE → https://app.diagrams.net para respetar como realizamos los diagramas de flujo en clases.
+
+Para abrir el archivo deben
+
+Ingresar al sitio https://app.diagrams.net/.
+Dar clic en abrir diagrama existente y abren el archivo modelo_parcial_6.drawio.
+Espero les sea útil.
+
+Saludos.
